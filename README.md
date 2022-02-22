@@ -22,6 +22,7 @@
 ![REACT](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![VUE](https://img.shields.io/badge/vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Database technologies
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
