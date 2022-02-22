@@ -19,7 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
-![REACT](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white)
+![REACT](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![VUE](https://img.shields.io/badge/vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white)
 
