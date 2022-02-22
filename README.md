@@ -28,6 +28,11 @@
 
 ## Deploy technologies
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+## Deploy technologies
+![Cypress](https://img.shields.io/badge/cypress-%230db7ed.svg?style=for-the-badge&logo=cypress&logoColor=white)
+
 
 ## Misc things
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
