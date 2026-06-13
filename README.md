@@ -1,50 +1,30 @@
 # Abel Mataix Pascual
 
-👋 Programador con más de 5 años de experiencia, especializado en eCommerce (PrestaShop y Shopify) y automatizaciones.
+👋 Programador con más de 5 años de experiencia, especializado en **automatizaciones** y **eCommerce** (PrestaShop y Shopify).
 
-- 🌱 Actualmente aprendiendo nuevos lenguajes y tecnologías.
+- 🤖 Me dedico a automatizar procesos y flujos de trabajo para tiendas online.
+- 🌱 Actualmente aprendiendo nuevas tecnologías y lenguajes.
 - ⚡ Dato curioso: amante de la música.
 
-## Lenguajes que utilizo
+## Especialidades
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p>
+  <img src="https://www.prestashop.com/img/logo-prestashop-black.svg" alt="PrestaShop" height="40" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" height="40" />
+</p>
+
+## Automatización y desarrollo
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Frameworks, plataformas y librerías
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/vue.js-6DA55F?style=for-the-badge&logo=vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-## eCommerce
-
-![PrestaShop](https://img.shields.io/badge/prestashop-%23DF0067.svg?style=for-the-badge&logo=prestashop&logoColor=white)
-![Shopify](https://img.shields.io/badge/shopify-%2396bf48.svg?style=for-the-badge&logo=shopify&logoColor=white)
-
-## Bases de datos
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Despliegue y CI/CD
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-## Testing
-
-![Cypress](https://img.shields.io/badge/cypress-%230db7ed.svg?style=for-the-badge&logo=cypress&logoColor=white)
-
-## Varios
+## Otras herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Estadísticas
 
