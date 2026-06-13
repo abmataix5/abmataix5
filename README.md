@@ -1,12 +1,23 @@
-# Abel Mataix Pascual
+<h1 align="center">¡Hola! Soy Abel Mataix Pascual 👋</h1>
 
-👋 Programador con más de 5 años de experiencia, especializado en **automatizaciones** y **eCommerce** (PrestaShop y Shopify).
+<p align="center">
+  Desarrollador especializado en <strong>eCommerce</strong> y <strong>automatización de procesos</strong> 🚀
+</p>
 
-- 🤖 Me dedico a automatizar procesos y flujos de trabajo para tiendas online.
-- 🌱 Actualmente aprendiendo nuevas tecnologías y lenguajes.
-- ⚡ Dato curioso: amante de la música.
+---
 
-## Especialidades
+### 🧑‍💻 Sobre mí
+
+Tengo 25 años y soy programador con más de **5 años de experiencia** trabajando en proyectos diversos y en tiendas online de **alta facturación**. Me apasiona aportar soluciones que marquen la diferencia: desde optimizar una tienda en PrestaShop o Shopify, hasta automatizar tareas repetitivas para que los equipos puedan centrarse en lo importante.
+
+- ⚙️ Me motiva **mejorar flujos de trabajo** y automatizar procesos que ahorren tiempo y reduzcan errores.
+- 🛒 Experiencia real en proyectos eCommerce con volúmenes de venta exigentes.
+- 🌱 Siempre con un ojo puesto en nuevas tecnologías, frameworks y herramientas.
+- 🎵 Fuera del código, la música es mi otra gran pasión.
+
+---
+
+### 🛍️ Especialidades
 
 <p>
   <img src="https://images.seeklogo.com/logo-png/48/1/prestashop-logo-png_seeklogo-482185.png" alt="PrestaShop" height="40" />
@@ -14,7 +25,9 @@
   <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" height="40" />
 </p>
 
-## Habilidades
+---
+
+### 🧰 Habilidades
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -27,11 +40,8 @@
 ![Remix](https://img.shields.io/badge/remix-000000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Smarty](https://img.shields.io/badge/smarty-%23F36854.svg?style=for-the-badge&logo=smarty&logoColor=white)
 
-## Otras herramientas
+---
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## Estadísticas
+### 📊 Estadísticas
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=abmataix5&count_private=true&show_icons=true)
