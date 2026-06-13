@@ -9,12 +9,12 @@
 ## Especialidades
 
 <p>
-  <img src="https://images.seeklogo.com/logo-png/48/1/prestashop-logo-png_seeklogo-482185.png" alt="PrestaShop" height="90" />
+  <img src="https://images.seeklogo.com/logo-png/48/1/prestashop-logo-png_seeklogo-482185.png" alt="PrestaShop" height="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" height="90" />
+  <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" height="40" />
 </p>
 
-## Automatización y desarrollo
+## Habilidades
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -22,9 +22,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## PrestaShop & Shopify
-
 ![Liquid](https://img.shields.io/badge/liquid-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Polaris](https://img.shields.io/badge/polaris-008060.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Remix](https://img.shields.io/badge/remix-000000.svg?style=for-the-badge&logo=remix&logoColor=white)
