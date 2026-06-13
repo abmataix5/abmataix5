@@ -8,11 +8,13 @@
 
 ### 🧑‍💻 Sobre mí
 
-Tengo 25 años y soy programador con más de **5 años de experiencia** trabajando en proyectos diversos y en tiendas online de **alta facturación**. Me apasiona aportar soluciones que marquen la diferencia: desde optimizar una tienda en PrestaShop o Shopify, hasta automatizar tareas repetitivas para que los equipos puedan centrarse en lo importante.
+Tengo 25 años y soy programador con más de **5 años de experiencia**, principalmente en proyectos de **eCommerce de alta facturación**. A lo largo de este tiempo he trabajado en entornos muy distintos, lo que me ha permitido adaptarme rápido y aportar soluciones prácticas a problemas reales.
 
-- ⚙️ Me motiva **mejorar flujos de trabajo** y automatizar procesos que ahorren tiempo y reduzcan errores.
-- 🛒 Experiencia real en proyectos eCommerce con volúmenes de venta exigentes.
-- 🌱 Siempre con un ojo puesto en nuevas tecnologías, frameworks y herramientas.
+Lo que más me motiva es **detectar procesos manuales y convertirlos en automatizaciones** que ahorran tiempo, reducen errores y hacen que los equipos puedan centrarse en lo que realmente importa.
+
+- 🛒 Experiencia trabajando con **PrestaShop** y **Shopify** en tiendas con alto volumen de ventas.
+- ⚙️ Especializado en **automatización de flujos de trabajo** y procesos repetitivos.
+- 🌱 Siempre aprendiendo nuevas tecnologías y herramientas.
 - 🎵 Fuera del código, la música es mi otra gran pasión.
 
 ---
