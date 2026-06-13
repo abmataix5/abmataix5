@@ -9,9 +9,9 @@
 ## Especialidades
 
 <p>
-  <img src="https://images.seeklogo.com/logo-png/48/1/prestashop-logo-png_seeklogo-482185.png" alt="PrestaShop" height="40" />
+  <img src="https://images.seeklogo.com/logo-png/48/1/prestashop-logo-png_seeklogo-482185.png" alt="PrestaShop" height="90" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" height="40" />
+  <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="Shopify" height="90" />
 </p>
 
 ## Automatización y desarrollo
